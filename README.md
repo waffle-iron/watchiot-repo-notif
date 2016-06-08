@@ -7,10 +7,6 @@ This project group all the way that we can send notification.
 * Email
 * Webhooks
 
-## By Email
-
-## By Webhooks
-
 ## Contributing
 
 We support and encourage contributions.
