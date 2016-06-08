@@ -15,7 +15,11 @@ This project group all the way that we can send notification.
 
 We support and encourage contributions.
 
-[CLic here to see the documentations abount notification]: <http://doc.watchiot.org/notif>
+## Documentation
+
+[CLic here] to see the documentations abount notification
+
+[CLic here]: <http://doc.watchiot.org/notif>
 
 ## License
 
