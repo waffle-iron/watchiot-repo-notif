@@ -2,7 +2,7 @@
 
 # Watchiot Repository of Notifications
 
-This project group all the way that we can send notification.
+This project defined all the forms we can send notifications.
 
 * Email
 * Webhooks
