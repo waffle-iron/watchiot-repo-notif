@@ -15,7 +15,7 @@ We support and encourage contributions.
 
 [CLick here] to see the documentations abount notification
 
-[CLick here]: <http://docs.watchiot.org/#/notification/>
+[CLick here]: <http://docs.watchiot.com/#/notification/>
 
 ## License
 
