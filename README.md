@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/watchiot/watchiot-repo-notif.png?label=ready&title=Ready)](https://waffle.io/watchiot/watchiot-repo-notif)
 [![Build Status](https://travis-ci.org/watchiot/watchiot-repo-notif.svg?branch=master)](https://travis-ci.org/watchiot/watchiot-repo-notif)
 
 # Watchiot Repository of Notifications
